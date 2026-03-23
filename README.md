@@ -5,5 +5,5 @@ C++ Single-file Library Packer for [Codeforces](https://codeforces.com/) and oth
 - Remove `\r`
 - Remove comments
 - Remove `#ifdef` / `#ifndef` directives
-- Remove unused code
+- [Experimental] Remove unused code
 - Convert spaces to tabs
