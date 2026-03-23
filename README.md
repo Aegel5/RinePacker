@@ -1,2 +1,9 @@
 # RinePacker
-C++ Single-file Library Packer for [Codeforces](https://codeforces.com/) and others CP-platforms
+C++ Single-file Library Packer for [Codeforces](https://codeforces.com/) and others CP-platforms.
+
+## Features:
+- Remove `\r`
+- Remove comments
+- Remove `#ifdef` / `#ifndef` directives
+- Remove unused code
+- Convert spaces to tabs
