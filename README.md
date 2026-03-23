@@ -1,2 +1,2 @@
 # RinePacker
-C++ Single-file Library Packer for Codeforces others CP-platforms
+C++ Single-file Library Packer for [Codeforces](https://codeforces.com/) and others CP-platforms
